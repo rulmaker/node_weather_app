@@ -1,6 +1,6 @@
 # node_weather_app
 
-Weather app, running on node.
+Weather CLI app, running on node.
 It consumes info from mapbox API to get searches of places, and form openweather.com it gets climatic conditions.
 
 To install required dependencies.
